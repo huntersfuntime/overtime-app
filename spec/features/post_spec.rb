@@ -48,7 +48,7 @@ describe 'navigate' do
 
   describe 'creation' do
     before do
-      visit new_post_path
+      visit new_post_pathsub
     end
 
     it 'has a new form that can be reached' do
