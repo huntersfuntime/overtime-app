@@ -18,4 +18,3 @@ class PostPolicy < ApplicationPolicy
       record.approved?
     end
 end
-
